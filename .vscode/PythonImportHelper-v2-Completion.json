@@ -1,0 +1,263 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pacf",
+        "importPath": "statsmodels.tsa.stattools",
+        "description": "statsmodels.tsa.stattools",
+        "isExtraImport": true,
+        "detail": "statsmodels.tsa.stattools",
+        "documentation": {}
+    },
+    {
+        "label": "skew",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "kurtosis",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "pearsonr",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureExtractionDriftDetector",
+        "kind": 6,
+        "importPath": "FEDD_modernized",
+        "description": "FEDD_modernized",
+        "peekOfCode": "class FeatureExtractionDriftDetector(BaseDriftDetector):\n    def __init__(self, min_instances, warning_threshold, drift_threshold): \n        super().__init__()\n        self.min_instances = min_instances\n        self.warning_threshold=warning_threshold\n        self.drift_threshold=drift_threshold\n        self.warning = None\n        self.warning_count=0\n        self.df_stream_tot=pd.DataFrame(columns=['y', 'y_diff'])\n        self.df_stream_win=pd.DataFrame(columns=['y', 'y_diff'])",
+        "detail": "FEDD_modernized",
+        "documentation": {}
+    },
+    {
+        "label": "blend_params",
+        "kind": 2,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "def blend_params(a: list[float], b: list[float], w: float) -> list[float]:\n    \"\"\"Linear interpolation, padding shorter AR orders with zeros.\"\"\"\n    max_len = max(len(a), len(b))\n    aa = np.zeros(max_len)\n    bb = np.zeros(max_len)\n    aa[: len(a)] = a\n    bb[: len(b)] = b\n    return ((1 - w) * aa + w * bb).tolist()\ndef safe_gate(x: float) -> float:\n    \"\"\"Numerically stable version of (1 - exp(-10*x))^-1.\"\"\"",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "safe_gate",
+        "kind": 2,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "def safe_gate(x: float) -> float:\n    \"\"\"Numerically stable version of (1 - exp(-10*x))^-1.\"\"\"\n    x = float(np.clip(x, -20, 20))\n    denominator = 1.0 - math.exp(-10.0 * x)\n    if abs(denominator) < 1e-8:\n        denominator = 1e-8 if denominator >= 0 else -1e-8\n    return 1.0 / denominator\ndef finite_value(x: float, limit: float = 1_000_000.0) -> float:\n    \"\"\"Avoid NaN/Inf caused by unstable printed parameter combinations.\"\"\"\n    if not np.isfinite(x):",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "finite_value",
+        "kind": 2,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "def finite_value(x: float, limit: float = 1_000_000.0) -> float:\n    \"\"\"Avoid NaN/Inf caused by unstable printed parameter combinations.\"\"\"\n    if not np.isfinite(x):\n        return 0.0\n    return float(np.clip(x, -limit, limit))\ndef generate_one_series(\n    concepts: list[tuple[list[float], float]],\n    model_kind: str,\n    drift_type: str,\n    rng: np.random.Generator,",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "generate_one_series",
+        "kind": 2,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "def generate_one_series(\n    concepts: list[tuple[list[float], float]],\n    model_kind: str,\n    drift_type: str,\n    rng: np.random.Generator,\n) -> tuple[np.ndarray, list[int]]:\n    max_p = max(len(params) for params, _ in concepts)\n    history = list(rng.normal(0, 0.1, max(8, max_p + 2)))\n    noises: list[float] = []\n    values: list[float] = []",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "generate_datasets",
+        "kind": 2,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "def generate_datasets(output_dir: Path, seed: int) -> pd.DataFrame:\n    rng = np.random.default_rng(seed)\n    data_dir = output_dir / \"data\"\n    data_dir.mkdir(parents=True, exist_ok=True)\n    rows = []\n    all_groups = {**LINEAR_GROUPS, **NONLINEAR_GROUPS}\n    for group_name, concepts in all_groups.items():\n        family = \"linear\" if group_name.startswith(\"linear\") else \"nonlinear\"\n        model_kind = MODEL_KIND[group_name]\n        for drift_type in [\"abrupt\", \"gradual\"]:",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "run_fedd_detector",
+        "kind": 2,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "def run_fedd_detector(output_dir: Path, fedd_py_path: str, min_instances: int, warning: float, drift: float) -> pd.DataFrame:\n    \"\"\"\n    Run the uploaded FEDD.py detector implementation.\n    Requires dependencies used by that file, especially scikit-multiflow,\n    statsmodels and scipy.\n    \"\"\"\n    import importlib.util\n    fedd_file = Path(fedd_py_path).resolve()\n    spec = importlib.util.spec_from_file_location(\"uploaded_fedd\", fedd_file)\n    module = importlib.util.module_from_spec(spec)",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "N_SERIES_PER_SUBSET",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "N_SERIES_PER_SUBSET = 20\nCONCEPT_LEN = 3000\nTOTAL_LEN = 12000\nGRADUAL_LEN = 300\nDRIFT_POINTS = [3000, 6000, 9000]\nLINEAR_GROUPS = {\n    \"linear1_ar4\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),\n        ([1.5, -0.4, -0.3, 0.2], 2.5),",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "CONCEPT_LEN",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "CONCEPT_LEN = 3000\nTOTAL_LEN = 12000\nGRADUAL_LEN = 300\nDRIFT_POINTS = [3000, 6000, 9000]\nLINEAR_GROUPS = {\n    \"linear1_ar4\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),\n        ([1.5, -0.4, -0.3, 0.2], 2.5),\n        ([-0.1, 1.4, 0.4, -0.7], 3.5),",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "TOTAL_LEN",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "TOTAL_LEN = 12000\nGRADUAL_LEN = 300\nDRIFT_POINTS = [3000, 6000, 9000]\nLINEAR_GROUPS = {\n    \"linear1_ar4\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),\n        ([1.5, -0.4, -0.3, 0.2], 2.5),\n        ([-0.1, 1.4, 0.4, -0.7], 3.5),\n    ],",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "GRADUAL_LEN",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "GRADUAL_LEN = 300\nDRIFT_POINTS = [3000, 6000, 9000]\nLINEAR_GROUPS = {\n    \"linear1_ar4\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),\n        ([1.5, -0.4, -0.3, 0.2], 2.5),\n        ([-0.1, 1.4, 0.4, -0.7], 3.5),\n    ],\n    \"linear2_ar6\": [",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "DRIFT_POINTS",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "DRIFT_POINTS = [3000, 6000, 9000]\nLINEAR_GROUPS = {\n    \"linear1_ar4\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),\n        ([1.5, -0.4, -0.3, 0.2], 2.5),\n        ([-0.1, 1.4, 0.4, -0.7], 3.5),\n    ],\n    \"linear2_ar6\": [\n        ([1.1, -0.6, 0.8, -0.5, -0.1, 0.3], 0.5),",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "LINEAR_GROUPS",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "LINEAR_GROUPS = {\n    \"linear1_ar4\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),\n        ([1.5, -0.4, -0.3, 0.2], 2.5),\n        ([-0.1, 1.4, 0.4, -0.7], 3.5),\n    ],\n    \"linear2_ar6\": [\n        ([1.1, -0.6, 0.8, -0.5, -0.1, 0.3], 0.5),\n        ([-0.1, 1.2, 0.4, 0.3, -0.2, -0.6], 1.5),",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "NONLINEAR_GROUPS",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "NONLINEAR_GROUPS = {\n    \"nonlinear1_nma\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),\n        ([1.5, -0.4, -0.3, 0.2], 2.5),\n        ([-0.1, 1.4, 0.4, -0.7], 3.5),\n    ],\n    \"nonlinear2_star1\": [\n        ([0.9, -0.2, 0.8, -0.5], 0.5),\n        ([-0.3, 1.4, 0.4, -0.5], 1.5),",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_KIND",
+        "kind": 5,
+        "importPath": "generate_fedd_datasets_notebook",
+        "description": "generate_fedd_datasets_notebook",
+        "peekOfCode": "MODEL_KIND = {\n    \"linear1_ar4\": \"ar\",\n    \"linear2_ar6\": \"ar\",\n    \"linear3_arp\": \"ar\",\n    \"nonlinear1_nma\": \"nma\",\n    \"nonlinear2_star1\": \"star1\",\n    \"nonlinear3_star2\": \"star2\",\n}\ndef blend_params(a: list[float], b: list[float], w: float) -> list[float]:\n    \"\"\"Linear interpolation, padding shorter AR orders with zeros.\"\"\"",
+        "detail": "generate_fedd_datasets_notebook",
+        "documentation": {}
+    }
+]

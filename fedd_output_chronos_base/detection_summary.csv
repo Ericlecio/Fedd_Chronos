@@ -1,0 +1,3 @@
+method,TP,FP,FN,average_detection_delay,median_detection_delay
+Chronos-Bolt Base + error detector,659,2336,61,267.65402124430955,160.0
+FEDD+ELM,655,6768,65,155.24580152671757,131.0
