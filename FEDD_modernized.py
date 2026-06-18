@@ -148,7 +148,7 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
             return  np.sum(temp[2*lag:n].values*temp[lag:n-lag].values*temp[:n-2*lag].values)/(n-2*lag)
         
         
-        '''see original code in Matlab: https://de.mathworks.com/matlabcentral/fileexchange/27561-measures-of-analysis-of-time-series-toolkit-mats'''
+    '''see original code in Matlab: https://de.mathworks.com/matlabcentral/fileexchange/27561-measures-of-analysis-of-time-series-toolkit-mats'''
     def mutual_information (self, data, lag):
             
             if self.initializing:
@@ -259,7 +259,7 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
                   self.mutual_information(window, 3) ]
         return concept
         
-    def compute_stat(self, dist, ind):         
+    def compute_stat(self, dist, ind):        
         self.df_statistic.loc[ind, 'dist']=dist
         dist_mean= self.df_statistic['dist'].mean()
         self.df_statistic.loc[ind, 'dist_mean']= dist_mean
@@ -267,9 +267,12 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
         alpha=0.2 # alpha value specified in sources
         ewma= self.df_statistic['dist'].ewm(alpha = alpha, adjust=False).mean() 
         self.df_statistic['ewma']= ewma
-                
-        dist_std= np.sqrt((alpha / (2-alpha)) * (1- ((1-alpha)**(2*(len(self.df_stream_win)-
-                                                                    1)))))*self.df_statistic['dist'].std()
+        
+        ### CORREÇÃO CONFORME O ARTIGO: O 't' da equação do EWMA é o número de instâncias do conceito atual
+        ### Usar o tamanho fixo da janela causava o colapso dos limites de detecção.
+        t_conceito = len(self.df_statistic) 
+        
+        dist_std = np.sqrt((alpha / (2-alpha)) * (1 - ((1-alpha)**(2 * t_conceito)))) * self.df_statistic['dist'].std()
         self.df_statistic.loc[ind, 'dist_std']= dist_std
             
         
@@ -299,7 +302,10 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
             new_concept= self.compute_concept(self.df_stream_win.copy())
             
             # compute pearson distance between current and new concept
-            dist= 1-pearsonr(self.current_concept, new_concept)[0]
+            
+            ### CORREÇÃO MENOR: Evita erro de divisão por zero caso a correlação retorne nulo
+            p_corr = pearsonr(self.current_concept, new_concept)[0]
+            dist = 1.0 if np.isnan(p_corr) else 1 - p_corr
             
             # add and compute test statistics
             ind=len(self.df_statistic)
@@ -310,8 +316,7 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
             
             '''warning detection'''
                 
-            if ((self.warning is None)& (new_stat.ewma > (new_stat.dist_mean + self.warning_threshold * 
-                                                          new_stat.dist_std))):
+            if ((self.warning is None)& (new_stat.ewma > (new_stat.dist_mean + self.warning_threshold * new_stat.dist_std))):
                     self.warning = len(self.df_stream_tot)-1
                     self.in_warning_zone = True
 
@@ -320,7 +325,7 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
                     self.in_warning_zone = True
 
             if ((not self.warning is None) & (new_stat.ewma <= (new_stat.dist_mean + self.warning_threshold *
-                                                                   new_stat.dist_std))):
+                                                                new_stat.dist_std))):
                     self.warning_count+=1
                     self.in_warning_zone = True
 
@@ -336,9 +341,10 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
 
                 self.in_concept_change = True
                 
-                # reset window, starting with first warning instance
-                self.df_stream_win=self.df_stream_tot.iloc[self.warning:,:]
-                #print(self.df_stream_win)
+                ### CORREÇÃO CONFORME O ARTIGO: Step 16 (s = warn). 
+                ### Se warn for nulo (drift brusco direto), a janela reinicia do ponto atual.
+                start_idx = self.warning if self.warning is not None else len(self.df_stream_tot) - 1
+                self.df_stream_win = self.df_stream_tot.iloc[start_idx:,:]
                 
                 # if warning window is at least as long as initiation window, compute new concept
                 if len(self.df_stream_win) >= self.min_instances:
@@ -354,5 +360,3 @@ class FeatureExtractionDriftDetector(BaseDriftDetector):
                 self.warning= None
                 self.warning_count=0
                 self.df_statistic=pd.DataFrame(columns=['dist', 'dist_mean', 'ewma', 'dist_std'])
-
-            

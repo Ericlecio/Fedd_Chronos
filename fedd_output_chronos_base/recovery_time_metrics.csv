@@ -1,176 +1,176 @@
 file,method,erro_pre_drift,recovery_time
 linear_linear1_ar4_abrupt_01.csv,Chronos-Bolt Base,4.040451961989284,16.0
-linear_linear1_ar4_abrupt_01.csv,FEDD+ELM,37.44948265453243,544.0
+linear_linear1_ar4_abrupt_01.csv,FEDD+ELM,112.29044526052357,232.0
 linear_linear1_ar4_abrupt_02.csv,Chronos-Bolt Base,3.692147401272579,16.0
-linear_linear1_ar4_abrupt_02.csv,FEDD+ELM,42.16852523787198,40.0
+linear_linear1_ar4_abrupt_02.csv,FEDD+ELM,42.09674203537247,40.0
 linear_linear1_ar4_abrupt_03.csv,Chronos-Bolt Base,4.139042389157088,88.0
 linear_linear1_ar4_abrupt_03.csv,FEDD+ELM,30.43870111351995,16.0
 linear_linear1_ar4_abrupt_04.csv,Chronos-Bolt Base,3.9978539390809402,16.0
-linear_linear1_ar4_abrupt_04.csv,FEDD+ELM,29.991274626170316,880.0
+linear_linear1_ar4_abrupt_04.csv,FEDD+ELM,62.56934366890526,880.0
 linear_linear1_ar4_abrupt_05.csv,Chronos-Bolt Base,3.915852605429354,40.0
-linear_linear1_ar4_abrupt_05.csv,FEDD+ELM,76.72044906554987,256.0
+linear_linear1_ar4_abrupt_05.csv,FEDD+ELM,88.25376765430453,544.0
 linear_linear1_ar4_abrupt_06.csv,Chronos-Bolt Base,4.03670764622362,88.0
-linear_linear1_ar4_abrupt_06.csv,FEDD+ELM,6.383583959835964,40.0
+linear_linear1_ar4_abrupt_06.csv,FEDD+ELM,6.367783186524768,88.0
 linear_linear1_ar4_abrupt_07.csv,Chronos-Bolt Base,3.625086033050032,40.0
-linear_linear1_ar4_abrupt_07.csv,FEDD+ELM,5.858139775998754,2848.0
+linear_linear1_ar4_abrupt_07.csv,FEDD+ELM,6.223013563741937,2848.0
 linear_linear1_ar4_abrupt_08.csv,Chronos-Bolt Base,3.9185415523817215,16.0
-linear_linear1_ar4_abrupt_08.csv,FEDD+ELM,46.10735530217506,16.0
+linear_linear1_ar4_abrupt_08.csv,FEDD+ELM,60.46171604456348,160.0
 linear_linear1_ar4_abrupt_09.csv,Chronos-Bolt Base,3.9897286843938295,16.0
-linear_linear1_ar4_abrupt_09.csv,FEDD+ELM,38.52314857950156,88.0
+linear_linear1_ar4_abrupt_09.csv,FEDD+ELM,49.52431417312044,16.0
 linear_linear1_ar4_abrupt_10.csv,Chronos-Bolt Base,3.9452967134010817,256.0
-linear_linear1_ar4_abrupt_10.csv,FEDD+ELM,27.99499070126372,256.0
+linear_linear1_ar4_abrupt_10.csv,FEDD+ELM,52.901116191228915,16.0
 linear_linear1_ar4_abrupt_11.csv,Chronos-Bolt Base,3.755644478495729,40.0
-linear_linear1_ar4_abrupt_11.csv,FEDD+ELM,7.4540723279536,112.0
+linear_linear1_ar4_abrupt_11.csv,FEDD+ELM,7.41575039795573,136.0
 linear_linear1_ar4_abrupt_12.csv,Chronos-Bolt Base,3.8469693440854553,112.0
-linear_linear1_ar4_abrupt_12.csv,FEDD+ELM,112.45178169203353,16.0
+linear_linear1_ar4_abrupt_12.csv,FEDD+ELM,109.11825568058408,16.0
 linear_linear1_ar4_abrupt_13.csv,Chronos-Bolt Base,4.035027900824228,16.0
-linear_linear1_ar4_abrupt_13.csv,FEDD+ELM,4.9763967681853405,184.0
+linear_linear1_ar4_abrupt_13.csv,FEDD+ELM,4.830107168067415,160.0
 linear_linear1_ar4_abrupt_14.csv,Chronos-Bolt Base,3.6895594122048982,16.0
-linear_linear1_ar4_abrupt_14.csv,FEDD+ELM,63.09271798722481,16.0
+linear_linear1_ar4_abrupt_14.csv,FEDD+ELM,40.49742094289276,16.0
 linear_linear1_ar4_abrupt_15.csv,Chronos-Bolt Base,4.076678854332753,256.0
-linear_linear1_ar4_abrupt_15.csv,FEDD+ELM,38.65996066464483,40.0
+linear_linear1_ar4_abrupt_15.csv,FEDD+ELM,26.01674852753188,64.0
 linear_linear1_ar4_abrupt_16.csv,Chronos-Bolt Base,3.6877432301875515,256.0
-linear_linear1_ar4_abrupt_16.csv,FEDD+ELM,6.266892692717299,40.0
+linear_linear1_ar4_abrupt_16.csv,FEDD+ELM,7.514466079523942,40.0
 linear_linear1_ar4_abrupt_17.csv,Chronos-Bolt Base,3.9125900287172253,16.0
-linear_linear1_ar4_abrupt_17.csv,FEDD+ELM,6.900529169926027,16.0
+linear_linear1_ar4_abrupt_17.csv,FEDD+ELM,6.811672486508516,16.0
 linear_linear1_ar4_abrupt_18.csv,Chronos-Bolt Base,3.7605141134885014,136.0
-linear_linear1_ar4_abrupt_18.csv,FEDD+ELM,24.186243310719338,16.0
+linear_linear1_ar4_abrupt_18.csv,FEDD+ELM,37.88818883872106,16.0
 linear_linear1_ar4_abrupt_19.csv,Chronos-Bolt Base,3.6256190288068457,160.0
-linear_linear1_ar4_abrupt_19.csv,FEDD+ELM,9.930871741864108,16.0
+linear_linear1_ar4_abrupt_19.csv,FEDD+ELM,15.667910638668626,16.0
 linear_linear1_ar4_abrupt_20.csv,Chronos-Bolt Base,3.727757328745904,16.0
-linear_linear1_ar4_abrupt_20.csv,FEDD+ELM,30.437482807569197,16.0
+linear_linear1_ar4_abrupt_20.csv,FEDD+ELM,12.718443398811825,952.0
 linear_linear1_ar4_gradual_01.csv,Chronos-Bolt Base,3.8899354560818757,16.0
-linear_linear1_ar4_gradual_01.csv,FEDD+ELM,7.220726789992188,208.0
+linear_linear1_ar4_gradual_01.csv,FEDD+ELM,42.904015119256556,16.0
 linear_linear1_ar4_gradual_02.csv,Chronos-Bolt Base,3.92327096077278,16.0
-linear_linear1_ar4_gradual_02.csv,FEDD+ELM,62.49227712431205,16.0
+linear_linear1_ar4_gradual_02.csv,FEDD+ELM,47.67716098147995,208.0
 linear_linear1_ar4_gradual_03.csv,Chronos-Bolt Base,3.777078311107435,64.0
-linear_linear1_ar4_gradual_03.csv,FEDD+ELM,7.367473111763614,16.0
+linear_linear1_ar4_gradual_03.csv,FEDD+ELM,6.469386432547949,16.0
 linear_linear1_ar4_gradual_04.csv,Chronos-Bolt Base,3.944953000844162,40.0
-linear_linear1_ar4_gradual_04.csv,FEDD+ELM,12.069273265841693,496.0
+linear_linear1_ar4_gradual_04.csv,FEDD+ELM,29.273153837112154,232.0
 linear_linear1_ar4_gradual_05.csv,Chronos-Bolt Base,3.574180052794248,16.0
-linear_linear1_ar4_gradual_05.csv,FEDD+ELM,43.430429649362544,16.0
+linear_linear1_ar4_gradual_05.csv,FEDD+ELM,27.81231480500756,16.0
 linear_linear1_ar4_gradual_06.csv,Chronos-Bolt Base,3.7969048736107673,16.0
-linear_linear1_ar4_gradual_06.csv,FEDD+ELM,5.701401789408761,16.0
+linear_linear1_ar4_gradual_06.csv,FEDD+ELM,6.597954024232412,40.0
 linear_linear1_ar4_gradual_07.csv,Chronos-Bolt Base,3.7230709574970473,40.0
-linear_linear1_ar4_gradual_07.csv,FEDD+ELM,42.024848387024996,16.0
+linear_linear1_ar4_gradual_07.csv,FEDD+ELM,45.82897125760869,16.0
 linear_linear1_ar4_gradual_08.csv,Chronos-Bolt Base,3.643735585445494,16.0
-linear_linear1_ar4_gradual_08.csv,FEDD+ELM,47.991979636086896,544.0
+linear_linear1_ar4_gradual_08.csv,FEDD+ELM,52.152016677475416,232.0
 linear_linear1_ar4_gradual_09.csv,Chronos-Bolt Base,3.9487646006919825,16.0
 linear_linear1_ar4_gradual_09.csv,FEDD+ELM,17.01527554310666,16.0
 linear_linear1_ar4_gradual_10.csv,Chronos-Bolt Base,3.610413260461609,40.0
-linear_linear1_ar4_gradual_10.csv,FEDD+ELM,55.09553654483096,16.0
+linear_linear1_ar4_gradual_10.csv,FEDD+ELM,27.677653498409974,16.0
 linear_linear1_ar4_gradual_11.csv,Chronos-Bolt Base,4.0010976829694656,16.0
-linear_linear1_ar4_gradual_11.csv,FEDD+ELM,55.71355005575445,16.0
+linear_linear1_ar4_gradual_11.csv,FEDD+ELM,30.865963912767132,16.0
 linear_linear1_ar4_gradual_12.csv,Chronos-Bolt Base,3.515614226080377,16.0
-linear_linear1_ar4_gradual_12.csv,FEDD+ELM,47.7656862484676,16.0
+linear_linear1_ar4_gradual_12.csv,FEDD+ELM,42.07733317925043,16.0
 linear_linear1_ar4_gradual_13.csv,Chronos-Bolt Base,3.838220956193976,16.0
-linear_linear1_ar4_gradual_13.csv,FEDD+ELM,35.07555244381053,16.0
+linear_linear1_ar4_gradual_13.csv,FEDD+ELM,18.603823227937134,16.0
 linear_linear1_ar4_gradual_14.csv,Chronos-Bolt Base,3.7630114194656104,16.0
-linear_linear1_ar4_gradual_14.csv,FEDD+ELM,32.531857058716675,16.0
+linear_linear1_ar4_gradual_14.csv,FEDD+ELM,48.41636928427018,16.0
 linear_linear1_ar4_gradual_15.csv,Chronos-Bolt Base,3.2866028952538366,16.0
-linear_linear1_ar4_gradual_15.csv,FEDD+ELM,32.69525841126671,16.0
+linear_linear1_ar4_gradual_15.csv,FEDD+ELM,38.97325907641624,16.0
 linear_linear1_ar4_gradual_16.csv,Chronos-Bolt Base,4.082109277438971,16.0
-linear_linear1_ar4_gradual_16.csv,FEDD+ELM,27.8193066126981,16.0
+linear_linear1_ar4_gradual_16.csv,FEDD+ELM,30.857097144363088,88.0
 linear_linear1_ar4_gradual_17.csv,Chronos-Bolt Base,3.482495156962539,16.0
-linear_linear1_ar4_gradual_17.csv,FEDD+ELM,5.871393681509237,40.0
+linear_linear1_ar4_gradual_17.csv,FEDD+ELM,5.73031441093846,40.0
 linear_linear1_ar4_gradual_18.csv,Chronos-Bolt Base,3.6063680217507246,16.0
-linear_linear1_ar4_gradual_18.csv,FEDD+ELM,48.32364373483441,16.0
+linear_linear1_ar4_gradual_18.csv,FEDD+ELM,21.779796213277386,16.0
 linear_linear1_ar4_gradual_19.csv,Chronos-Bolt Base,3.874864661732091,16.0
-linear_linear1_ar4_gradual_19.csv,FEDD+ELM,31.16289287765224,160.0
+linear_linear1_ar4_gradual_19.csv,FEDD+ELM,26.94531130797138,160.0
 linear_linear1_ar4_gradual_20.csv,Chronos-Bolt Base,3.5906626222150315,40.0
-linear_linear1_ar4_gradual_20.csv,FEDD+ELM,6.556728785064143,160.0
+linear_linear1_ar4_gradual_20.csv,FEDD+ELM,6.57662617906283,160.0
 linear_linear2_ar6_abrupt_01.csv,Chronos-Bolt Base,7.9622949946480635,16.0
-linear_linear2_ar6_abrupt_01.csv,FEDD+ELM,156.7504839999801,184.0
+linear_linear2_ar6_abrupt_01.csv,FEDD+ELM,162.44873624881558,184.0
 linear_linear2_ar6_abrupt_02.csv,Chronos-Bolt Base,6.927287317059363,88.0
-linear_linear2_ar6_abrupt_02.csv,FEDD+ELM,268.8591271086557,16.0
+linear_linear2_ar6_abrupt_02.csv,FEDD+ELM,309.8058645143782,184.0
 linear_linear2_ar6_abrupt_03.csv,Chronos-Bolt Base,8.04897683519911,16.0
-linear_linear2_ar6_abrupt_03.csv,FEDD+ELM,1215.3831422427334,16.0
+linear_linear2_ar6_abrupt_03.csv,FEDD+ELM,1052.2161851703106,16.0
 linear_linear2_ar6_abrupt_04.csv,Chronos-Bolt Base,7.2851377621014635,64.0
-linear_linear2_ar6_abrupt_04.csv,FEDD+ELM,100.82579920149534,64.0
+linear_linear2_ar6_abrupt_04.csv,FEDD+ELM,436.1576850768856,16.0
 linear_linear2_ar6_abrupt_05.csv,Chronos-Bolt Base,7.058394448358787,16.0
-linear_linear2_ar6_abrupt_05.csv,FEDD+ELM,646.2024744412736,16.0
+linear_linear2_ar6_abrupt_05.csv,FEDD+ELM,400.061202445258,16.0
 linear_linear2_ar6_abrupt_06.csv,Chronos-Bolt Base,6.341777715746029,40.0
-linear_linear2_ar6_abrupt_06.csv,FEDD+ELM,885.66329072115,16.0
+linear_linear2_ar6_abrupt_06.csv,FEDD+ELM,683.1437046535216,16.0
 linear_linear2_ar6_abrupt_07.csv,Chronos-Bolt Base,7.732306835046723,16.0
-linear_linear2_ar6_abrupt_07.csv,FEDD+ELM,381.63507384971336,208.0
+linear_linear2_ar6_abrupt_07.csv,FEDD+ELM,679.3642390620223,16.0
 linear_linear2_ar6_abrupt_08.csv,Chronos-Bolt Base,7.269437687487531,40.0
-linear_linear2_ar6_abrupt_08.csv,FEDD+ELM,617.0573383906479,16.0
+linear_linear2_ar6_abrupt_08.csv,FEDD+ELM,506.5538595722236,16.0
 linear_linear2_ar6_abrupt_09.csv,Chronos-Bolt Base,6.421447873765342,16.0
-linear_linear2_ar6_abrupt_09.csv,FEDD+ELM,908.694205896041,16.0
+linear_linear2_ar6_abrupt_09.csv,FEDD+ELM,1570.3158148326115,16.0
 linear_linear2_ar6_abrupt_10.csv,Chronos-Bolt Base,8.121012677079388,112.0
-linear_linear2_ar6_abrupt_10.csv,FEDD+ELM,322.90896355569464,16.0
+linear_linear2_ar6_abrupt_10.csv,FEDD+ELM,543.8603357228441,16.0
 linear_linear2_ar6_abrupt_11.csv,Chronos-Bolt Base,7.403555769662298,40.0
-linear_linear2_ar6_abrupt_11.csv,FEDD+ELM,285.5448185001912,16.0
+linear_linear2_ar6_abrupt_11.csv,FEDD+ELM,354.6585914976421,16.0
 linear_linear2_ar6_abrupt_12.csv,Chronos-Bolt Base,7.00520860607148,16.0
-linear_linear2_ar6_abrupt_12.csv,FEDD+ELM,412.2909063054629,16.0
+linear_linear2_ar6_abrupt_12.csv,FEDD+ELM,288.524974089789,16.0
 linear_linear2_ar6_abrupt_13.csv,Chronos-Bolt Base,7.1752678816056985,16.0
-linear_linear2_ar6_abrupt_13.csv,FEDD+ELM,871.523594522179,232.0
+linear_linear2_ar6_abrupt_13.csv,FEDD+ELM,725.247312783635,16.0
 linear_linear2_ar6_abrupt_14.csv,Chronos-Bolt Base,7.302707042083307,64.0
-linear_linear2_ar6_abrupt_14.csv,FEDD+ELM,316.8090127473123,16.0
+linear_linear2_ar6_abrupt_14.csv,FEDD+ELM,309.4210245671428,16.0
 linear_linear2_ar6_abrupt_15.csv,Chronos-Bolt Base,6.7744139995197274,16.0
-linear_linear2_ar6_abrupt_15.csv,FEDD+ELM,251.58408481326651,232.0
+linear_linear2_ar6_abrupt_15.csv,FEDD+ELM,296.92571489446135,16.0
 linear_linear2_ar6_abrupt_16.csv,Chronos-Bolt Base,6.929710885427309,64.0
-linear_linear2_ar6_abrupt_16.csv,FEDD+ELM,663.7370419152355,16.0
+linear_linear2_ar6_abrupt_16.csv,FEDD+ELM,336.10130986058454,232.0
 linear_linear2_ar6_abrupt_17.csv,Chronos-Bolt Base,7.483808706118845,16.0
-linear_linear2_ar6_abrupt_17.csv,FEDD+ELM,143.69990606664084,16.0
+linear_linear2_ar6_abrupt_17.csv,FEDD+ELM,126.79382190088212,16.0
 linear_linear2_ar6_abrupt_18.csv,Chronos-Bolt Base,7.483478665931753,16.0
-linear_linear2_ar6_abrupt_18.csv,FEDD+ELM,333.63336621060216,16.0
+linear_linear2_ar6_abrupt_18.csv,FEDD+ELM,407.07733856426256,16.0
 linear_linear2_ar6_abrupt_19.csv,Chronos-Bolt Base,7.984652926826787,16.0
-linear_linear2_ar6_abrupt_19.csv,FEDD+ELM,257.2103146032305,16.0
+linear_linear2_ar6_abrupt_19.csv,FEDD+ELM,243.8980359381146,520.0
 linear_linear2_ar6_abrupt_20.csv,Chronos-Bolt Base,6.732620555775826,16.0
-linear_linear2_ar6_abrupt_20.csv,FEDD+ELM,307.6932718814172,568.0
+linear_linear2_ar6_abrupt_20.csv,FEDD+ELM,307.63887917924524,808.0
 linear_linear2_ar6_gradual_01.csv,Chronos-Bolt Base,8.751487335054872,16.0
-linear_linear2_ar6_gradual_01.csv,FEDD+ELM,917.9756562685614,208.0
+linear_linear2_ar6_gradual_01.csv,FEDD+ELM,1923.2530809993366,232.0
 linear_linear2_ar6_gradual_02.csv,Chronos-Bolt Base,8.161201054681298,16.0
-linear_linear2_ar6_gradual_02.csv,FEDD+ELM,1533.735104591616,16.0
+linear_linear2_ar6_gradual_02.csv,FEDD+ELM,1536.592427609677,16.0
 linear_linear2_ar6_gradual_03.csv,Chronos-Bolt Base,7.416134715731335,40.0
-linear_linear2_ar6_gradual_03.csv,FEDD+ELM,160.21417795508472,808.0
+linear_linear2_ar6_gradual_03.csv,FEDD+ELM,165.18970395308733,808.0
 linear_linear2_ar6_gradual_04.csv,Chronos-Bolt Base,6.334316786832152,16.0
-linear_linear2_ar6_gradual_04.csv,FEDD+ELM,475.4027883853072,64.0
+linear_linear2_ar6_gradual_04.csv,FEDD+ELM,788.1349536019297,64.0
 linear_linear2_ar6_gradual_05.csv,Chronos-Bolt Base,7.269049854939992,16.0
-linear_linear2_ar6_gradual_05.csv,FEDD+ELM,342.506798632816,16.0
+linear_linear2_ar6_gradual_05.csv,FEDD+ELM,375.40605536962954,232.0
 linear_linear2_ar6_gradual_06.csv,Chronos-Bolt Base,8.109386194208048,16.0
-linear_linear2_ar6_gradual_06.csv,FEDD+ELM,263.5142303295969,208.0
+linear_linear2_ar6_gradual_06.csv,FEDD+ELM,265.03410489546883,208.0
 linear_linear2_ar6_gradual_07.csv,Chronos-Bolt Base,8.389686277091922,16.0
-linear_linear2_ar6_gradual_07.csv,FEDD+ELM,358.19077236554676,16.0
+linear_linear2_ar6_gradual_07.csv,FEDD+ELM,457.13609665618213,376.0
 linear_linear2_ar6_gradual_08.csv,Chronos-Bolt Base,6.817661414361246,16.0
-linear_linear2_ar6_gradual_08.csv,FEDD+ELM,133.49787169329548,16.0
+linear_linear2_ar6_gradual_08.csv,FEDD+ELM,257.8091783488026,16.0
 linear_linear2_ar6_gradual_09.csv,Chronos-Bolt Base,6.513087774075972,16.0
-linear_linear2_ar6_gradual_09.csv,FEDD+ELM,278.61082469510905,616.0
+linear_linear2_ar6_gradual_09.csv,FEDD+ELM,873.2128989135086,16.0
 linear_linear2_ar6_gradual_10.csv,Chronos-Bolt Base,6.779794585873575,16.0
-linear_linear2_ar6_gradual_10.csv,FEDD+ELM,818.2532179796666,16.0
+linear_linear2_ar6_gradual_10.csv,FEDD+ELM,588.5341998579174,16.0
 linear_linear2_ar6_gradual_11.csv,Chronos-Bolt Base,7.574384604885428,16.0
-linear_linear2_ar6_gradual_11.csv,FEDD+ELM,177.32365036277145,16.0
+linear_linear2_ar6_gradual_11.csv,FEDD+ELM,148.52635383891243,16.0
 linear_linear2_ar6_gradual_12.csv,Chronos-Bolt Base,6.199089293099164,16.0
-linear_linear2_ar6_gradual_12.csv,FEDD+ELM,355.74968845449337,16.0
+linear_linear2_ar6_gradual_12.csv,FEDD+ELM,336.177793755682,16.0
 linear_linear2_ar6_gradual_13.csv,Chronos-Bolt Base,7.522611052250676,16.0
-linear_linear2_ar6_gradual_13.csv,FEDD+ELM,445.5232974506067,16.0
+linear_linear2_ar6_gradual_13.csv,FEDD+ELM,410.48517487077186,16.0
 linear_linear2_ar6_gradual_14.csv,Chronos-Bolt Base,8.461540604889771,16.0
-linear_linear2_ar6_gradual_14.csv,FEDD+ELM,870.0852583529829,160.0
+linear_linear2_ar6_gradual_14.csv,FEDD+ELM,676.9294787751197,160.0
 linear_linear2_ar6_gradual_15.csv,Chronos-Bolt Base,6.8955445423801125,16.0
-linear_linear2_ar6_gradual_15.csv,FEDD+ELM,272.83959018667207,160.0
+linear_linear2_ar6_gradual_15.csv,FEDD+ELM,260.1429243344053,88.0
 linear_linear2_ar6_gradual_16.csv,Chronos-Bolt Base,7.092119594475897,16.0
-linear_linear2_ar6_gradual_16.csv,FEDD+ELM,294.6121596464262,16.0
+linear_linear2_ar6_gradual_16.csv,FEDD+ELM,966.4185069623792,16.0
 linear_linear2_ar6_gradual_17.csv,Chronos-Bolt Base,7.817898702530851,16.0
-linear_linear2_ar6_gradual_17.csv,FEDD+ELM,704.4687772665371,160.0
+linear_linear2_ar6_gradual_17.csv,FEDD+ELM,1009.084343756952,160.0
 linear_linear2_ar6_gradual_18.csv,Chronos-Bolt Base,7.422102225245872,16.0
-linear_linear2_ar6_gradual_18.csv,FEDD+ELM,920.8299331435155,16.0
+linear_linear2_ar6_gradual_18.csv,FEDD+ELM,364.6038413588256,16.0
 linear_linear2_ar6_gradual_19.csv,Chronos-Bolt Base,6.564044617012433,16.0
-linear_linear2_ar6_gradual_19.csv,FEDD+ELM,282.53337335622757,16.0
+linear_linear2_ar6_gradual_19.csv,FEDD+ELM,850.8140926956437,16.0
 linear_linear2_ar6_gradual_20.csv,Chronos-Bolt Base,6.582136118754079,16.0
-linear_linear2_ar6_gradual_20.csv,FEDD+ELM,1319.669541901985,16.0
+linear_linear2_ar6_gradual_20.csv,FEDD+ELM,1151.0228585401264,16.0
 linear_linear3_arp_abrupt_01.csv,Chronos-Bolt Base,0.030565538772140237,
 linear_linear3_arp_abrupt_01.csv,FEDD+ELM,752624.4500446016,16.0
 linear_linear3_arp_abrupt_02.csv,Chronos-Bolt Base,0.014063432139087199,
 linear_linear3_arp_abrupt_02.csv,FEDD+ELM,1035858.967912825,16.0
 linear_linear3_arp_abrupt_03.csv,Chronos-Bolt Base,0.023993989414434296,
-linear_linear3_arp_abrupt_03.csv,FEDD+ELM,1175825.9638580787,16.0
+linear_linear3_arp_abrupt_03.csv,FEDD+ELM,744997.4910831631,16.0
 linear_linear3_arp_abrupt_04.csv,Chronos-Bolt Base,0.017344796966282293,
 linear_linear3_arp_abrupt_04.csv,FEDD+ELM,859397.4440587955,16.0
 linear_linear3_arp_abrupt_05.csv,Chronos-Bolt Base,0.043896465598490544,
 linear_linear3_arp_abrupt_05.csv,FEDD+ELM,1894876.8059582561,16.0
 linear_linear3_arp_abrupt_06.csv,Chronos-Bolt Base,0.021083662628082072,
-linear_linear3_arp_abrupt_06.csv,FEDD+ELM,1628184.9022033722,16.0
+linear_linear3_arp_abrupt_06.csv,FEDD+ELM,2066359.3916210877,16.0
 linear_linear3_arp_abrupt_07.csv,Chronos-Bolt Base,0.0670954436620435,
 linear_linear3_arp_abrupt_07.csv,FEDD+ELM,846740.763716183,16.0
 linear_linear3_arp_abrupt_08.csv,Chronos-Bolt Base,0.006787321465896047,
@@ -186,296 +186,296 @@ linear_linear3_arp_abrupt_12.csv,FEDD+ELM,1517470.89823144,16.0
 linear_linear3_arp_abrupt_13.csv,Chronos-Bolt Base,0.02418848102382663,
 linear_linear3_arp_abrupt_13.csv,FEDD+ELM,760975.72379757,16.0
 linear_linear3_arp_abrupt_14.csv,Chronos-Bolt Base,0.012177705127431266,
-linear_linear3_arp_abrupt_14.csv,FEDD+ELM,3302742.6553884256,16.0
+linear_linear3_arp_abrupt_14.csv,FEDD+ELM,3195097.767761403,16.0
 linear_linear3_arp_abrupt_15.csv,Chronos-Bolt Base,0.04091927667208698,
 linear_linear3_arp_abrupt_15.csv,FEDD+ELM,873349.9689794236,16.0
 linear_linear3_arp_abrupt_16.csv,Chronos-Bolt Base,0.006340615657026074,
 linear_linear3_arp_abrupt_16.csv,FEDD+ELM,1279163.0918524154,16.0
 linear_linear3_arp_abrupt_17.csv,Chronos-Bolt Base,0.004080347790896046,
-linear_linear3_arp_abrupt_17.csv,FEDD+ELM,2434664.4702643394,16.0
+linear_linear3_arp_abrupt_17.csv,FEDD+ELM,3760210.128134206,16.0
 linear_linear3_arp_abrupt_18.csv,Chronos-Bolt Base,0.0159607699655074,
-linear_linear3_arp_abrupt_18.csv,FEDD+ELM,969924.5381764001,16.0
+linear_linear3_arp_abrupt_18.csv,FEDD+ELM,932398.985886082,16.0
 linear_linear3_arp_abrupt_19.csv,Chronos-Bolt Base,0.045414626840601345,
-linear_linear3_arp_abrupt_19.csv,FEDD+ELM,2089892.8340141145,16.0
+linear_linear3_arp_abrupt_19.csv,FEDD+ELM,564716.4854769548,16.0
 linear_linear3_arp_abrupt_20.csv,Chronos-Bolt Base,0.024638812850522326,
-linear_linear3_arp_abrupt_20.csv,FEDD+ELM,942736.18347771,16.0
+linear_linear3_arp_abrupt_20.csv,FEDD+ELM,918456.6267734874,16.0
 linear_linear3_arp_gradual_01.csv,Chronos-Bolt Base,0.0,16.0
 linear_linear3_arp_gradual_01.csv,FEDD+ELM,13846613.107765967,16.0
 linear_linear3_arp_gradual_02.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_02.csv,FEDD+ELM,960194.5838872644,16.0
+linear_linear3_arp_gradual_02.csv,FEDD+ELM,845972.2301875424,16.0
 linear_linear3_arp_gradual_03.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_03.csv,FEDD+ELM,999998.0067679951,16.0
+linear_linear3_arp_gradual_03.csv,FEDD+ELM,616220.3983850842,16.0
 linear_linear3_arp_gradual_04.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_04.csv,FEDD+ELM,999998.16660596,16.0
+linear_linear3_arp_gradual_04.csv,FEDD+ELM,883897.4438957525,16.0
 linear_linear3_arp_gradual_05.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_05.csv,FEDD+ELM,837845.2991203655,16.0
+linear_linear3_arp_gradual_05.csv,FEDD+ELM,528084.1134324662,16.0
 linear_linear3_arp_gradual_06.csv,Chronos-Bolt Base,0.0,16.0
 linear_linear3_arp_gradual_06.csv,FEDD+ELM,918237.593501323,16.0
 linear_linear3_arp_gradual_07.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_07.csv,FEDD+ELM,999999.2813217579,16.0
+linear_linear3_arp_gradual_07.csv,FEDD+ELM,969623.360696124,16.0
 linear_linear3_arp_gradual_08.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_08.csv,FEDD+ELM,1000392.042551294,16.0
+linear_linear3_arp_gradual_08.csv,FEDD+ELM,1848530.1574014986,16.0
 linear_linear3_arp_gradual_09.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_09.csv,FEDD+ELM,1000246.2752247406,16.0
+linear_linear3_arp_gradual_09.csv,FEDD+ELM,2669376.480144325,16.0
 linear_linear3_arp_gradual_10.csv,Chronos-Bolt Base,0.0,16.0
 linear_linear3_arp_gradual_10.csv,FEDD+ELM,990093.6191592067,16.0
 linear_linear3_arp_gradual_11.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_11.csv,FEDD+ELM,1272389.4564752304,16.0
+linear_linear3_arp_gradual_11.csv,FEDD+ELM,2895501.0100166374,16.0
 linear_linear3_arp_gradual_12.csv,Chronos-Bolt Base,0.0,16.0
 linear_linear3_arp_gradual_12.csv,FEDD+ELM,1663531.6334645953,16.0
 linear_linear3_arp_gradual_13.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_13.csv,FEDD+ELM,999999.6414394497,16.0
+linear_linear3_arp_gradual_13.csv,FEDD+ELM,143524.06401577775,16.0
 linear_linear3_arp_gradual_14.csv,Chronos-Bolt Base,0.0,16.0
 linear_linear3_arp_gradual_14.csv,FEDD+ELM,599675.674019943,16.0
 linear_linear3_arp_gradual_15.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_15.csv,FEDD+ELM,1000074.5773415948,16.0
+linear_linear3_arp_gradual_15.csv,FEDD+ELM,927975.1855614131,16.0
 linear_linear3_arp_gradual_16.csv,Chronos-Bolt Base,0.0,16.0
 linear_linear3_arp_gradual_16.csv,FEDD+ELM,1479794.655957329,16.0
 linear_linear3_arp_gradual_17.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_17.csv,FEDD+ELM,999998.8344162597,16.0
+linear_linear3_arp_gradual_17.csv,FEDD+ELM,3038287.203469608,16.0
 linear_linear3_arp_gradual_18.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_18.csv,FEDD+ELM,999943.634656235,16.0
+linear_linear3_arp_gradual_18.csv,FEDD+ELM,1157071.8311191732,16.0
 linear_linear3_arp_gradual_19.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_19.csv,FEDD+ELM,1000018.5288915611,16.0
+linear_linear3_arp_gradual_19.csv,FEDD+ELM,98164.05024131831,16.0
 linear_linear3_arp_gradual_20.csv,Chronos-Bolt Base,0.0,16.0
-linear_linear3_arp_gradual_20.csv,FEDD+ELM,999868.401294663,16.0
+linear_linear3_arp_gradual_20.csv,FEDD+ELM,681183.859686763,16.0
 nonlinear_nonlinear1_nma_abrupt_01.csv,Chronos-Bolt Base,1.8721303462135155,184.0
-nonlinear_nonlinear1_nma_abrupt_01.csv,FEDD+ELM,1.9579971817919626,184.0
+nonlinear_nonlinear1_nma_abrupt_01.csv,FEDD+ELM,2.0551755286776086,112.0
 nonlinear_nonlinear1_nma_abrupt_02.csv,Chronos-Bolt Base,1.90736904916501,88.0
-nonlinear_nonlinear1_nma_abrupt_02.csv,FEDD+ELM,2.0649819657847206,328.0
+nonlinear_nonlinear1_nma_abrupt_02.csv,FEDD+ELM,2.067561838777261,136.0
 nonlinear_nonlinear1_nma_abrupt_03.csv,Chronos-Bolt Base,1.7885584078498133,112.0
-nonlinear_nonlinear1_nma_abrupt_03.csv,FEDD+ELM,1.8822347793002348,40.0
+nonlinear_nonlinear1_nma_abrupt_03.csv,FEDD+ELM,1.8883397709754963,232.0
 nonlinear_nonlinear1_nma_abrupt_04.csv,Chronos-Bolt Base,1.808271742870346,184.0
-nonlinear_nonlinear1_nma_abrupt_04.csv,FEDD+ELM,1.9736334310027446,184.0
+nonlinear_nonlinear1_nma_abrupt_04.csv,FEDD+ELM,1.9866999031132933,64.0
 nonlinear_nonlinear1_nma_abrupt_05.csv,Chronos-Bolt Base,1.8785459437161767,16.0
-nonlinear_nonlinear1_nma_abrupt_05.csv,FEDD+ELM,2.0835341678772674,40.0
+nonlinear_nonlinear1_nma_abrupt_05.csv,FEDD+ELM,2.0653739005319984,40.0
 nonlinear_nonlinear1_nma_abrupt_06.csv,Chronos-Bolt Base,1.905422416808089,16.0
-nonlinear_nonlinear1_nma_abrupt_06.csv,FEDD+ELM,2.1694293117644605,400.0
+nonlinear_nonlinear1_nma_abrupt_06.csv,FEDD+ELM,2.140586437741819,328.0
 nonlinear_nonlinear1_nma_abrupt_07.csv,Chronos-Bolt Base,1.774706199539986,184.0
-nonlinear_nonlinear1_nma_abrupt_07.csv,FEDD+ELM,1.8630109745439198,256.0
+nonlinear_nonlinear1_nma_abrupt_07.csv,FEDD+ELM,1.851093335293771,256.0
 nonlinear_nonlinear1_nma_abrupt_08.csv,Chronos-Bolt Base,1.7447867110867425,160.0
-nonlinear_nonlinear1_nma_abrupt_08.csv,FEDD+ELM,1.8779211727417415,160.0
+nonlinear_nonlinear1_nma_abrupt_08.csv,FEDD+ELM,1.9203843321535012,88.0
 nonlinear_nonlinear1_nma_abrupt_09.csv,Chronos-Bolt Base,1.916649797531198,16.0
-nonlinear_nonlinear1_nma_abrupt_09.csv,FEDD+ELM,2.0405832617089237,16.0
+nonlinear_nonlinear1_nma_abrupt_09.csv,FEDD+ELM,2.037634716056785,112.0
 nonlinear_nonlinear1_nma_abrupt_10.csv,Chronos-Bolt Base,1.8582812780261941,88.0
-nonlinear_nonlinear1_nma_abrupt_10.csv,FEDD+ELM,1.9645659814714023,88.0
+nonlinear_nonlinear1_nma_abrupt_10.csv,FEDD+ELM,1.9610675695070336,88.0
 nonlinear_nonlinear1_nma_abrupt_11.csv,Chronos-Bolt Base,1.8669040281384057,16.0
-nonlinear_nonlinear1_nma_abrupt_11.csv,FEDD+ELM,1.9803578961459902,16.0
+nonlinear_nonlinear1_nma_abrupt_11.csv,FEDD+ELM,1.9765278128361967,16.0
 nonlinear_nonlinear1_nma_abrupt_12.csv,Chronos-Bolt Base,1.7982561376847812,40.0
-nonlinear_nonlinear1_nma_abrupt_12.csv,FEDD+ELM,2.000068731487199,64.0
+nonlinear_nonlinear1_nma_abrupt_12.csv,FEDD+ELM,2.0077723507220915,40.0
 nonlinear_nonlinear1_nma_abrupt_13.csv,Chronos-Bolt Base,1.7918882697488097,400.0
-nonlinear_nonlinear1_nma_abrupt_13.csv,FEDD+ELM,1.9628339381832745,400.0
+nonlinear_nonlinear1_nma_abrupt_13.csv,FEDD+ELM,1.940269342336426,232.0
 nonlinear_nonlinear1_nma_abrupt_14.csv,Chronos-Bolt Base,1.8344945710967384,112.0
-nonlinear_nonlinear1_nma_abrupt_14.csv,FEDD+ELM,2.0539002066144127,40.0
+nonlinear_nonlinear1_nma_abrupt_14.csv,FEDD+ELM,2.0165946914351247,112.0
 nonlinear_nonlinear1_nma_abrupt_15.csv,Chronos-Bolt Base,1.7390463447993658,64.0
-nonlinear_nonlinear1_nma_abrupt_15.csv,FEDD+ELM,1.8664637028366673,160.0
+nonlinear_nonlinear1_nma_abrupt_15.csv,FEDD+ELM,1.8223125780163507,160.0
 nonlinear_nonlinear1_nma_abrupt_16.csv,Chronos-Bolt Base,1.8440494128392957,16.0
-nonlinear_nonlinear1_nma_abrupt_16.csv,FEDD+ELM,1.9938004869822605,16.0
+nonlinear_nonlinear1_nma_abrupt_16.csv,FEDD+ELM,1.9974664639193396,16.0
 nonlinear_nonlinear1_nma_abrupt_17.csv,Chronos-Bolt Base,1.8273004207290693,400.0
-nonlinear_nonlinear1_nma_abrupt_17.csv,FEDD+ELM,1.9305704048161554,424.0
+nonlinear_nonlinear1_nma_abrupt_17.csv,FEDD+ELM,1.9295402748800037,424.0
 nonlinear_nonlinear1_nma_abrupt_18.csv,Chronos-Bolt Base,1.7808872376178104,88.0
-nonlinear_nonlinear1_nma_abrupt_18.csv,FEDD+ELM,1.950587574879074,88.0
+nonlinear_nonlinear1_nma_abrupt_18.csv,FEDD+ELM,1.9642105495847224,88.0
 nonlinear_nonlinear1_nma_abrupt_19.csv,Chronos-Bolt Base,1.7833616832461738,352.0
-nonlinear_nonlinear1_nma_abrupt_19.csv,FEDD+ELM,2.081698116479448,280.0
+nonlinear_nonlinear1_nma_abrupt_19.csv,FEDD+ELM,2.07991915404325,352.0
 nonlinear_nonlinear1_nma_abrupt_20.csv,Chronos-Bolt Base,1.8748671622575404,64.0
-nonlinear_nonlinear1_nma_abrupt_20.csv,FEDD+ELM,2.062580022457477,64.0
+nonlinear_nonlinear1_nma_abrupt_20.csv,FEDD+ELM,2.07872600103573,64.0
 nonlinear_nonlinear1_nma_gradual_01.csv,Chronos-Bolt Base,1.8624534945896047,16.0
-nonlinear_nonlinear1_nma_gradual_01.csv,FEDD+ELM,1.9869017558735966,16.0
+nonlinear_nonlinear1_nma_gradual_01.csv,FEDD+ELM,2.0129121700417882,16.0
 nonlinear_nonlinear1_nma_gradual_02.csv,Chronos-Bolt Base,1.9358986931452826,16.0
-nonlinear_nonlinear1_nma_gradual_02.csv,FEDD+ELM,2.1313115554935878,16.0
+nonlinear_nonlinear1_nma_gradual_02.csv,FEDD+ELM,2.1723667048205924,16.0
 nonlinear_nonlinear1_nma_gradual_03.csv,Chronos-Bolt Base,1.7785294648648118,40.0
-nonlinear_nonlinear1_nma_gradual_03.csv,FEDD+ELM,1.9277441841779062,40.0
+nonlinear_nonlinear1_nma_gradual_03.csv,FEDD+ELM,1.941845589482582,16.0
 nonlinear_nonlinear1_nma_gradual_04.csv,Chronos-Bolt Base,1.7747283079573268,16.0
-nonlinear_nonlinear1_nma_gradual_04.csv,FEDD+ELM,1.935044303221679,16.0
+nonlinear_nonlinear1_nma_gradual_04.csv,FEDD+ELM,1.92686833423976,16.0
 nonlinear_nonlinear1_nma_gradual_05.csv,Chronos-Bolt Base,1.8876864557264144,16.0
-nonlinear_nonlinear1_nma_gradual_05.csv,FEDD+ELM,2.005393047556782,16.0
+nonlinear_nonlinear1_nma_gradual_05.csv,FEDD+ELM,2.007896131085,16.0
 nonlinear_nonlinear1_nma_gradual_06.csv,Chronos-Bolt Base,1.7595739796875507,40.0
-nonlinear_nonlinear1_nma_gradual_06.csv,FEDD+ELM,1.9540452086043527,40.0
+nonlinear_nonlinear1_nma_gradual_06.csv,FEDD+ELM,1.9528400117564677,40.0
 nonlinear_nonlinear1_nma_gradual_07.csv,Chronos-Bolt Base,1.769549842608807,16.0
-nonlinear_nonlinear1_nma_gradual_07.csv,FEDD+ELM,1.913210126321268,40.0
+nonlinear_nonlinear1_nma_gradual_07.csv,FEDD+ELM,1.9531297453467134,16.0
 nonlinear_nonlinear1_nma_gradual_08.csv,Chronos-Bolt Base,1.8727291143092895,16.0
-nonlinear_nonlinear1_nma_gradual_08.csv,FEDD+ELM,2.022248278791811,16.0
+nonlinear_nonlinear1_nma_gradual_08.csv,FEDD+ELM,1.990761921679784,16.0
 nonlinear_nonlinear1_nma_gradual_09.csv,Chronos-Bolt Base,1.8657356204309046,16.0
-nonlinear_nonlinear1_nma_gradual_09.csv,FEDD+ELM,1.9975096093407982,40.0
+nonlinear_nonlinear1_nma_gradual_09.csv,FEDD+ELM,1.9942041783760343,16.0
 nonlinear_nonlinear1_nma_gradual_10.csv,Chronos-Bolt Base,1.8283971298432324,16.0
-nonlinear_nonlinear1_nma_gradual_10.csv,FEDD+ELM,1.9410111258609735,16.0
+nonlinear_nonlinear1_nma_gradual_10.csv,FEDD+ELM,1.9602434824346553,16.0
 nonlinear_nonlinear1_nma_gradual_11.csv,Chronos-Bolt Base,1.873683612117277,16.0
-nonlinear_nonlinear1_nma_gradual_11.csv,FEDD+ELM,2.0800655141528392,16.0
+nonlinear_nonlinear1_nma_gradual_11.csv,FEDD+ELM,2.0884227763489696,16.0
 nonlinear_nonlinear1_nma_gradual_12.csv,Chronos-Bolt Base,1.8582545650117055,16.0
-nonlinear_nonlinear1_nma_gradual_12.csv,FEDD+ELM,1.956763988618021,16.0
+nonlinear_nonlinear1_nma_gradual_12.csv,FEDD+ELM,1.982310829160573,40.0
 nonlinear_nonlinear1_nma_gradual_13.csv,Chronos-Bolt Base,1.8502577130056477,40.0
 nonlinear_nonlinear1_nma_gradual_13.csv,FEDD+ELM,1.9723808947919634,40.0
 nonlinear_nonlinear1_nma_gradual_14.csv,Chronos-Bolt Base,1.7534524773487978,40.0
 nonlinear_nonlinear1_nma_gradual_14.csv,FEDD+ELM,1.865457468194817,40.0
 nonlinear_nonlinear1_nma_gradual_15.csv,Chronos-Bolt Base,1.8612707637581098,16.0
-nonlinear_nonlinear1_nma_gradual_15.csv,FEDD+ELM,1.98509271304077,16.0
+nonlinear_nonlinear1_nma_gradual_15.csv,FEDD+ELM,1.938069974852861,16.0
 nonlinear_nonlinear1_nma_gradual_16.csv,Chronos-Bolt Base,1.8522863881219505,16.0
-nonlinear_nonlinear1_nma_gradual_16.csv,FEDD+ELM,2.0636053283327445,16.0
+nonlinear_nonlinear1_nma_gradual_16.csv,FEDD+ELM,2.0537234595223905,16.0
 nonlinear_nonlinear1_nma_gradual_17.csv,Chronos-Bolt Base,1.7591701568659315,16.0
-nonlinear_nonlinear1_nma_gradual_17.csv,FEDD+ELM,1.822084698330712,40.0
+nonlinear_nonlinear1_nma_gradual_17.csv,FEDD+ELM,1.825765334082026,40.0
 nonlinear_nonlinear1_nma_gradual_18.csv,Chronos-Bolt Base,1.8272611735058868,64.0
-nonlinear_nonlinear1_nma_gradual_18.csv,FEDD+ELM,1.9618276267156978,64.0
+nonlinear_nonlinear1_nma_gradual_18.csv,FEDD+ELM,1.9664901503097318,64.0
 nonlinear_nonlinear1_nma_gradual_19.csv,Chronos-Bolt Base,1.771764214627624,40.0
-nonlinear_nonlinear1_nma_gradual_19.csv,FEDD+ELM,1.9133817549249652,16.0
+nonlinear_nonlinear1_nma_gradual_19.csv,FEDD+ELM,1.9242355253193408,40.0
 nonlinear_nonlinear1_nma_gradual_20.csv,Chronos-Bolt Base,1.7715942428440237,16.0
-nonlinear_nonlinear1_nma_gradual_20.csv,FEDD+ELM,1.9949834011197924,16.0
+nonlinear_nonlinear1_nma_gradual_20.csv,FEDD+ELM,1.99364264634402,16.0
 nonlinear_nonlinear2_star1_abrupt_01.csv,Chronos-Bolt Base,3.7201564963598552,64.0
-nonlinear_nonlinear2_star1_abrupt_01.csv,FEDD+ELM,21.639609133243685,16.0
+nonlinear_nonlinear2_star1_abrupt_01.csv,FEDD+ELM,21.620370320190197,16.0
 nonlinear_nonlinear2_star1_abrupt_02.csv,Chronos-Bolt Base,3.7584534931976643,64.0
-nonlinear_nonlinear2_star1_abrupt_02.csv,FEDD+ELM,205.91259306982323,16.0
+nonlinear_nonlinear2_star1_abrupt_02.csv,FEDD+ELM,21.275012791727278,16.0
 nonlinear_nonlinear2_star1_abrupt_03.csv,Chronos-Bolt Base,3.806377573365112,136.0
-nonlinear_nonlinear2_star1_abrupt_03.csv,FEDD+ELM,36.382018327333164,88.0
+nonlinear_nonlinear2_star1_abrupt_03.csv,FEDD+ELM,53.074910942712414,16.0
 nonlinear_nonlinear2_star1_abrupt_04.csv,Chronos-Bolt Base,8.676288448517669,16.0
 nonlinear_nonlinear2_star1_abrupt_04.csv,FEDD+ELM,40.218577554961605,112.0
 nonlinear_nonlinear2_star1_abrupt_05.csv,Chronos-Bolt Base,70.90053633921855,16.0
-nonlinear_nonlinear2_star1_abrupt_05.csv,FEDD+ELM,255.7251507401914,16.0
+nonlinear_nonlinear2_star1_abrupt_05.csv,FEDD+ELM,273.9741617772729,16.0
 nonlinear_nonlinear2_star1_abrupt_06.csv,Chronos-Bolt Base,3.6166168416857354,16.0
-nonlinear_nonlinear2_star1_abrupt_06.csv,FEDD+ELM,11.284568595923309,88.0
+nonlinear_nonlinear2_star1_abrupt_06.csv,FEDD+ELM,19.457351787319844,16.0
 nonlinear_nonlinear2_star1_abrupt_07.csv,Chronos-Bolt Base,3.609677888394533,16.0
-nonlinear_nonlinear2_star1_abrupt_07.csv,FEDD+ELM,53.796304481062556,16.0
+nonlinear_nonlinear2_star1_abrupt_07.csv,FEDD+ELM,81.56331573135051,16.0
 nonlinear_nonlinear2_star1_abrupt_08.csv,Chronos-Bolt Base,3.710164609202743,64.0
-nonlinear_nonlinear2_star1_abrupt_08.csv,FEDD+ELM,17.875673008440724,40.0
+nonlinear_nonlinear2_star1_abrupt_08.csv,FEDD+ELM,15.516581389768278,16.0
 nonlinear_nonlinear2_star1_abrupt_09.csv,Chronos-Bolt Base,4.01156642131935,16.0
-nonlinear_nonlinear2_star1_abrupt_09.csv,FEDD+ELM,11.124808825298421,664.0
+nonlinear_nonlinear2_star1_abrupt_09.csv,FEDD+ELM,17.074091465486042,664.0
 nonlinear_nonlinear2_star1_abrupt_10.csv,Chronos-Bolt Base,30.331396445255635,16.0
-nonlinear_nonlinear2_star1_abrupt_10.csv,FEDD+ELM,69.72089703278098,280.0
+nonlinear_nonlinear2_star1_abrupt_10.csv,FEDD+ELM,68.78505453883406,88.0
 nonlinear_nonlinear2_star1_abrupt_11.csv,Chronos-Bolt Base,3.9851269160120326,64.0
-nonlinear_nonlinear2_star1_abrupt_11.csv,FEDD+ELM,64.89001746585681,16.0
+nonlinear_nonlinear2_star1_abrupt_11.csv,FEDD+ELM,68.02850638298166,16.0
 nonlinear_nonlinear2_star1_abrupt_12.csv,Chronos-Bolt Base,4.250775117025934,16.0
 nonlinear_nonlinear2_star1_abrupt_12.csv,FEDD+ELM,78.32654604572211,16.0
 nonlinear_nonlinear2_star1_abrupt_13.csv,Chronos-Bolt Base,3.779868293385532,64.0
-nonlinear_nonlinear2_star1_abrupt_13.csv,FEDD+ELM,69.16080095290933,88.0
+nonlinear_nonlinear2_star1_abrupt_13.csv,FEDD+ELM,86.63326873172959,88.0
 nonlinear_nonlinear2_star1_abrupt_14.csv,Chronos-Bolt Base,4.003054521558094,40.0
 nonlinear_nonlinear2_star1_abrupt_14.csv,FEDD+ELM,10.944373609726298,88.0
 nonlinear_nonlinear2_star1_abrupt_15.csv,Chronos-Bolt Base,3.6990013220008495,136.0
-nonlinear_nonlinear2_star1_abrupt_15.csv,FEDD+ELM,46.66242656847185,16.0
+nonlinear_nonlinear2_star1_abrupt_15.csv,FEDD+ELM,17.598574142615227,16.0
 nonlinear_nonlinear2_star1_abrupt_16.csv,Chronos-Bolt Base,3.7214954561969193,112.0
 nonlinear_nonlinear2_star1_abrupt_16.csv,FEDD+ELM,13.625613870448271,40.0
 nonlinear_nonlinear2_star1_abrupt_17.csv,Chronos-Bolt Base,4.144266390667413,40.0
-nonlinear_nonlinear2_star1_abrupt_17.csv,FEDD+ELM,15.789798218555239,136.0
+nonlinear_nonlinear2_star1_abrupt_17.csv,FEDD+ELM,101.15382438035485,16.0
 nonlinear_nonlinear2_star1_abrupt_18.csv,Chronos-Bolt Base,3.7198939210964554,40.0
-nonlinear_nonlinear2_star1_abrupt_18.csv,FEDD+ELM,11.000388933820025,136.0
+nonlinear_nonlinear2_star1_abrupt_18.csv,FEDD+ELM,10.62590390132007,160.0
 nonlinear_nonlinear2_star1_abrupt_19.csv,Chronos-Bolt Base,3.8510947664366393,64.0
-nonlinear_nonlinear2_star1_abrupt_19.csv,FEDD+ELM,41.19595799606058,88.0
+nonlinear_nonlinear2_star1_abrupt_19.csv,FEDD+ELM,18.96531550570974,40.0
 nonlinear_nonlinear2_star1_abrupt_20.csv,Chronos-Bolt Base,3.608405456337517,136.0
-nonlinear_nonlinear2_star1_abrupt_20.csv,FEDD+ELM,69.71129905224649,64.0
+nonlinear_nonlinear2_star1_abrupt_20.csv,FEDD+ELM,56.942318508398046,16.0
 nonlinear_nonlinear2_star1_gradual_01.csv,Chronos-Bolt Base,3.6756780274101546,16.0
-nonlinear_nonlinear2_star1_gradual_01.csv,FEDD+ELM,53.524531235842005,16.0
+nonlinear_nonlinear2_star1_gradual_01.csv,FEDD+ELM,53.459999056844936,16.0
 nonlinear_nonlinear2_star1_gradual_02.csv,Chronos-Bolt Base,3.859697986838632,16.0
-nonlinear_nonlinear2_star1_gradual_02.csv,FEDD+ELM,29.38351736534111,16.0
+nonlinear_nonlinear2_star1_gradual_02.csv,FEDD+ELM,25.883143329448167,40.0
 nonlinear_nonlinear2_star1_gradual_03.csv,Chronos-Bolt Base,3.8260327951113595,40.0
 nonlinear_nonlinear2_star1_gradual_03.csv,FEDD+ELM,49.19304905171411,16.0
 nonlinear_nonlinear2_star1_gradual_04.csv,Chronos-Bolt Base,3.9385677961946173,16.0
-nonlinear_nonlinear2_star1_gradual_04.csv,FEDD+ELM,42.9395271938035,280.0
+nonlinear_nonlinear2_star1_gradual_04.csv,FEDD+ELM,18.426902727326947,424.0
 nonlinear_nonlinear2_star1_gradual_05.csv,Chronos-Bolt Base,22.538514705818876,16.0
-nonlinear_nonlinear2_star1_gradual_05.csv,FEDD+ELM,67.25538523944145,400.0
+nonlinear_nonlinear2_star1_gradual_05.csv,FEDD+ELM,61.89599258685127,472.0
 nonlinear_nonlinear2_star1_gradual_06.csv,Chronos-Bolt Base,3.860785133211319,16.0
-nonlinear_nonlinear2_star1_gradual_06.csv,FEDD+ELM,23.69220710980038,16.0
+nonlinear_nonlinear2_star1_gradual_06.csv,FEDD+ELM,23.205859189803682,16.0
 nonlinear_nonlinear2_star1_gradual_07.csv,Chronos-Bolt Base,3.9063293423507783,16.0
-nonlinear_nonlinear2_star1_gradual_07.csv,FEDD+ELM,52.521327287002634,16.0
+nonlinear_nonlinear2_star1_gradual_07.csv,FEDD+ELM,15.584343112468963,16.0
 nonlinear_nonlinear2_star1_gradual_08.csv,Chronos-Bolt Base,6.72702285413878,16.0
-nonlinear_nonlinear2_star1_gradual_08.csv,FEDD+ELM,12.618883961201737,88.0
+nonlinear_nonlinear2_star1_gradual_08.csv,FEDD+ELM,12.993821155603216,232.0
 nonlinear_nonlinear2_star1_gradual_09.csv,Chronos-Bolt Base,3.9186027537371704,16.0
-nonlinear_nonlinear2_star1_gradual_09.csv,FEDD+ELM,14.644428393794875,16.0
+nonlinear_nonlinear2_star1_gradual_09.csv,FEDD+ELM,100.5770390709765,16.0
 nonlinear_nonlinear2_star1_gradual_10.csv,Chronos-Bolt Base,208.22379783528189,16.0
-nonlinear_nonlinear2_star1_gradual_10.csv,FEDD+ELM,2087.33085681583,232.0
+nonlinear_nonlinear2_star1_gradual_10.csv,FEDD+ELM,2274.4710133712506,16.0
 nonlinear_nonlinear2_star1_gradual_11.csv,Chronos-Bolt Base,8.964138087545015,16.0
-nonlinear_nonlinear2_star1_gradual_11.csv,FEDD+ELM,46.79799988991276,16.0
+nonlinear_nonlinear2_star1_gradual_11.csv,FEDD+ELM,64.66763737044167,16.0
 nonlinear_nonlinear2_star1_gradual_12.csv,Chronos-Bolt Base,3.751644307811692,16.0
-nonlinear_nonlinear2_star1_gradual_12.csv,FEDD+ELM,54.12095231989714,232.0
+nonlinear_nonlinear2_star1_gradual_12.csv,FEDD+ELM,41.264603073345334,16.0
 nonlinear_nonlinear2_star1_gradual_13.csv,Chronos-Bolt Base,3.838271224884017,16.0
-nonlinear_nonlinear2_star1_gradual_13.csv,FEDD+ELM,22.237205297587984,16.0
+nonlinear_nonlinear2_star1_gradual_13.csv,FEDD+ELM,13.586879500817098,208.0
 nonlinear_nonlinear2_star1_gradual_14.csv,Chronos-Bolt Base,4.0895183591061866,40.0
-nonlinear_nonlinear2_star1_gradual_14.csv,FEDD+ELM,20.663163152324234,16.0
+nonlinear_nonlinear2_star1_gradual_14.csv,FEDD+ELM,16.244400811828932,16.0
 nonlinear_nonlinear2_star1_gradual_15.csv,Chronos-Bolt Base,4.9839652951173505,16.0
-nonlinear_nonlinear2_star1_gradual_15.csv,FEDD+ELM,10.594364100219941,16.0
+nonlinear_nonlinear2_star1_gradual_15.csv,FEDD+ELM,10.561607482578296,16.0
 nonlinear_nonlinear2_star1_gradual_16.csv,Chronos-Bolt Base,3.8897634019396485,16.0
-nonlinear_nonlinear2_star1_gradual_16.csv,FEDD+ELM,20.266489563865793,88.0
+nonlinear_nonlinear2_star1_gradual_16.csv,FEDD+ELM,19.91398360874836,88.0
 nonlinear_nonlinear2_star1_gradual_17.csv,Chronos-Bolt Base,3.694547408112891,16.0
-nonlinear_nonlinear2_star1_gradual_17.csv,FEDD+ELM,54.172619698574906,16.0
+nonlinear_nonlinear2_star1_gradual_17.csv,FEDD+ELM,84.63408425133494,16.0
 nonlinear_nonlinear2_star1_gradual_18.csv,Chronos-Bolt Base,3.9640264603898383,16.0
-nonlinear_nonlinear2_star1_gradual_18.csv,FEDD+ELM,70.41389848934993,16.0
+nonlinear_nonlinear2_star1_gradual_18.csv,FEDD+ELM,21.69722624786104,16.0
 nonlinear_nonlinear2_star1_gradual_19.csv,Chronos-Bolt Base,6.564206404023971,88.0
-nonlinear_nonlinear2_star1_gradual_19.csv,FEDD+ELM,62.519012189130144,40.0
+nonlinear_nonlinear2_star1_gradual_19.csv,FEDD+ELM,64.02461405133269,40.0
 nonlinear_nonlinear2_star1_gradual_20.csv,Chronos-Bolt Base,3.8200378700088855,16.0
-nonlinear_nonlinear2_star1_gradual_20.csv,FEDD+ELM,30.256245437334503,16.0
+nonlinear_nonlinear2_star1_gradual_20.csv,FEDD+ELM,113.01865430276662,40.0
 nonlinear_nonlinear3_star2_abrupt_01.csv,Chronos-Bolt Base,1.6149114538326212,16.0
-nonlinear_nonlinear3_star2_abrupt_01.csv,FEDD+ELM,24233.4311398424,16.0
+nonlinear_nonlinear3_star2_abrupt_01.csv,FEDD+ELM,26811.614020493686,16.0
 nonlinear_nonlinear3_star2_abrupt_02.csv,Chronos-Bolt Base,1.4079695864011068,136.0
-nonlinear_nonlinear3_star2_abrupt_02.csv,FEDD+ELM,36653.133647550654,16.0
+nonlinear_nonlinear3_star2_abrupt_02.csv,FEDD+ELM,9538.319762187282,16.0
 nonlinear_nonlinear3_star2_abrupt_03.csv,Chronos-Bolt Base,1.49792616302208,64.0
-nonlinear_nonlinear3_star2_abrupt_03.csv,FEDD+ELM,13532.850080980237,16.0
+nonlinear_nonlinear3_star2_abrupt_03.csv,FEDD+ELM,15796.240510229636,16.0
 nonlinear_nonlinear3_star2_abrupt_04.csv,Chronos-Bolt Base,1.471200615719223,16.0
-nonlinear_nonlinear3_star2_abrupt_04.csv,FEDD+ELM,32157.68214502043,16.0
+nonlinear_nonlinear3_star2_abrupt_04.csv,FEDD+ELM,16058.872231933059,16.0
 nonlinear_nonlinear3_star2_abrupt_05.csv,Chronos-Bolt Base,1.8534030513248156,16.0
-nonlinear_nonlinear3_star2_abrupt_05.csv,FEDD+ELM,9742.819148561792,16.0
+nonlinear_nonlinear3_star2_abrupt_05.csv,FEDD+ELM,11623.444865905063,16.0
 nonlinear_nonlinear3_star2_abrupt_06.csv,Chronos-Bolt Base,1.4254883030471814,64.0
-nonlinear_nonlinear3_star2_abrupt_06.csv,FEDD+ELM,39534.486573151444,16.0
+nonlinear_nonlinear3_star2_abrupt_06.csv,FEDD+ELM,33688.42975286044,16.0
 nonlinear_nonlinear3_star2_abrupt_07.csv,Chronos-Bolt Base,1.4396697640715048,16.0
-nonlinear_nonlinear3_star2_abrupt_07.csv,FEDD+ELM,8662.095888022395,16.0
+nonlinear_nonlinear3_star2_abrupt_07.csv,FEDD+ELM,8662.104290362859,16.0
 nonlinear_nonlinear3_star2_abrupt_08.csv,Chronos-Bolt Base,102.63327841668922,16.0
-nonlinear_nonlinear3_star2_abrupt_08.csv,FEDD+ELM,52963.67050401274,16.0
+nonlinear_nonlinear3_star2_abrupt_08.csv,FEDD+ELM,52950.62432624425,16.0
 nonlinear_nonlinear3_star2_abrupt_09.csv,Chronos-Bolt Base,1.3551371943168613,40.0
-nonlinear_nonlinear3_star2_abrupt_09.csv,FEDD+ELM,48761.453821055904,16.0
+nonlinear_nonlinear3_star2_abrupt_09.csv,FEDD+ELM,48761.44450705435,16.0
 nonlinear_nonlinear3_star2_abrupt_10.csv,Chronos-Bolt Base,1.790468681218175,16.0
 nonlinear_nonlinear3_star2_abrupt_10.csv,FEDD+ELM,13358.578626140716,16.0
 nonlinear_nonlinear3_star2_abrupt_11.csv,Chronos-Bolt Base,1.475091460535271,40.0
-nonlinear_nonlinear3_star2_abrupt_11.csv,FEDD+ELM,3581.8022092775577,16.0
+nonlinear_nonlinear3_star2_abrupt_11.csv,FEDD+ELM,25997.22797736972,16.0
 nonlinear_nonlinear3_star2_abrupt_12.csv,Chronos-Bolt Base,1.4578050428191915,64.0
-nonlinear_nonlinear3_star2_abrupt_12.csv,FEDD+ELM,40037.502615239944,16.0
+nonlinear_nonlinear3_star2_abrupt_12.csv,FEDD+ELM,2934.315609725967,16.0
 nonlinear_nonlinear3_star2_abrupt_13.csv,Chronos-Bolt Base,1.792153948104963,16.0
-nonlinear_nonlinear3_star2_abrupt_13.csv,FEDD+ELM,5670.574318478159,16.0
+nonlinear_nonlinear3_star2_abrupt_13.csv,FEDD+ELM,2427.489467761052,16.0
 nonlinear_nonlinear3_star2_abrupt_14.csv,Chronos-Bolt Base,1.7980028161083672,40.0
-nonlinear_nonlinear3_star2_abrupt_14.csv,FEDD+ELM,4007.018694376984,16.0
+nonlinear_nonlinear3_star2_abrupt_14.csv,FEDD+ELM,614.8239941361871,16.0
 nonlinear_nonlinear3_star2_abrupt_15.csv,Chronos-Bolt Base,1.560790548782612,40.0
-nonlinear_nonlinear3_star2_abrupt_15.csv,FEDD+ELM,27919.058696073862,16.0
+nonlinear_nonlinear3_star2_abrupt_15.csv,FEDD+ELM,16045.659970899182,16.0
 nonlinear_nonlinear3_star2_abrupt_16.csv,Chronos-Bolt Base,1.940614008489801,40.0
 nonlinear_nonlinear3_star2_abrupt_16.csv,FEDD+ELM,35231.37031729979,16.0
 nonlinear_nonlinear3_star2_abrupt_17.csv,Chronos-Bolt Base,2.0662806569937255,16.0
-nonlinear_nonlinear3_star2_abrupt_17.csv,FEDD+ELM,3905.352513012458,16.0
+nonlinear_nonlinear3_star2_abrupt_17.csv,FEDD+ELM,8350.512470513446,16.0
 nonlinear_nonlinear3_star2_abrupt_18.csv,Chronos-Bolt Base,1.5696633065363303,16.0
-nonlinear_nonlinear3_star2_abrupt_18.csv,FEDD+ELM,5059.809400306009,16.0
+nonlinear_nonlinear3_star2_abrupt_18.csv,FEDD+ELM,5059.796264218016,16.0
 nonlinear_nonlinear3_star2_abrupt_19.csv,Chronos-Bolt Base,4.803534660115436,16.0
-nonlinear_nonlinear3_star2_abrupt_19.csv,FEDD+ELM,32479.035039753697,16.0
+nonlinear_nonlinear3_star2_abrupt_19.csv,FEDD+ELM,7164.987534872626,16.0
 nonlinear_nonlinear3_star2_abrupt_20.csv,Chronos-Bolt Base,1.4647578322299968,136.0
-nonlinear_nonlinear3_star2_abrupt_20.csv,FEDD+ELM,34589.22825339702,16.0
+nonlinear_nonlinear3_star2_abrupt_20.csv,FEDD+ELM,14135.898745988712,16.0
 nonlinear_nonlinear3_star2_gradual_01.csv,Chronos-Bolt Base,1.4064067202953001,16.0
-nonlinear_nonlinear3_star2_gradual_01.csv,FEDD+ELM,11702.387503425483,16.0
+nonlinear_nonlinear3_star2_gradual_01.csv,FEDD+ELM,21956.129551107548,16.0
 nonlinear_nonlinear3_star2_gradual_02.csv,Chronos-Bolt Base,1.875977687744582,16.0
-nonlinear_nonlinear3_star2_gradual_02.csv,FEDD+ELM,43956.14114453834,16.0
+nonlinear_nonlinear3_star2_gradual_02.csv,FEDD+ELM,41360.994232783756,16.0
 nonlinear_nonlinear3_star2_gradual_03.csv,Chronos-Bolt Base,1.731912074870769,16.0
-nonlinear_nonlinear3_star2_gradual_03.csv,FEDD+ELM,15755.892681082461,16.0
+nonlinear_nonlinear3_star2_gradual_03.csv,FEDD+ELM,15755.968179803796,16.0
 nonlinear_nonlinear3_star2_gradual_04.csv,Chronos-Bolt Base,1.404555290783568,16.0
-nonlinear_nonlinear3_star2_gradual_04.csv,FEDD+ELM,11211.85432719175,16.0
+nonlinear_nonlinear3_star2_gradual_04.csv,FEDD+ELM,35153.26846872015,16.0
 nonlinear_nonlinear3_star2_gradual_05.csv,Chronos-Bolt Base,1.4155883858313576,16.0
-nonlinear_nonlinear3_star2_gradual_05.csv,FEDD+ELM,58909.90229331476,16.0
+nonlinear_nonlinear3_star2_gradual_05.csv,FEDD+ELM,58909.91543540862,16.0
 nonlinear_nonlinear3_star2_gradual_06.csv,Chronos-Bolt Base,2.588190603628244,16.0
-nonlinear_nonlinear3_star2_gradual_06.csv,FEDD+ELM,17175.948184798362,16.0
+nonlinear_nonlinear3_star2_gradual_06.csv,FEDD+ELM,13163.930413531281,16.0
 nonlinear_nonlinear3_star2_gradual_07.csv,Chronos-Bolt Base,1.425428617351771,16.0
-nonlinear_nonlinear3_star2_gradual_07.csv,FEDD+ELM,10451.969557592212,16.0
+nonlinear_nonlinear3_star2_gradual_07.csv,FEDD+ELM,24557.52466410207,16.0
 nonlinear_nonlinear3_star2_gradual_08.csv,Chronos-Bolt Base,1.6849025102014317,16.0
-nonlinear_nonlinear3_star2_gradual_08.csv,FEDD+ELM,19827.00944803643,16.0
+nonlinear_nonlinear3_star2_gradual_08.csv,FEDD+ELM,18347.46576169716,16.0
 nonlinear_nonlinear3_star2_gradual_09.csv,Chronos-Bolt Base,1.5335427490875368,16.0
 nonlinear_nonlinear3_star2_gradual_09.csv,FEDD+ELM,55315.918304295876,16.0
 nonlinear_nonlinear3_star2_gradual_10.csv,Chronos-Bolt Base,1.8242995091723804,16.0
-nonlinear_nonlinear3_star2_gradual_10.csv,FEDD+ELM,24560.34401596851,16.0
+nonlinear_nonlinear3_star2_gradual_10.csv,FEDD+ELM,18028.923296221416,16.0
 nonlinear_nonlinear3_star2_gradual_11.csv,Chronos-Bolt Base,3.6424117853776656,16.0
-nonlinear_nonlinear3_star2_gradual_11.csv,FEDD+ELM,28564.267154528272,16.0
+nonlinear_nonlinear3_star2_gradual_11.csv,FEDD+ELM,25733.34554491157,16.0
 nonlinear_nonlinear3_star2_gradual_12.csv,Chronos-Bolt Base,1.4922379903949146,16.0
-nonlinear_nonlinear3_star2_gradual_12.csv,FEDD+ELM,52621.967941338,16.0
+nonlinear_nonlinear3_star2_gradual_12.csv,FEDD+ELM,52621.90972074369,16.0
 nonlinear_nonlinear3_star2_gradual_13.csv,Chronos-Bolt Base,1.350221136642912,40.0
-nonlinear_nonlinear3_star2_gradual_13.csv,FEDD+ELM,33939.9535198695,16.0
+nonlinear_nonlinear3_star2_gradual_13.csv,FEDD+ELM,44226.14987361981,16.0
 nonlinear_nonlinear3_star2_gradual_14.csv,Chronos-Bolt Base,1.3612102856803598,16.0
-nonlinear_nonlinear3_star2_gradual_14.csv,FEDD+ELM,14061.267775709877,16.0
+nonlinear_nonlinear3_star2_gradual_14.csv,FEDD+ELM,11872.527153025769,16.0
 nonlinear_nonlinear3_star2_gradual_15.csv,Chronos-Bolt Base,1.6506821470621171,16.0
-nonlinear_nonlinear3_star2_gradual_15.csv,FEDD+ELM,10687.173627787577,16.0
+nonlinear_nonlinear3_star2_gradual_15.csv,FEDD+ELM,27415.445247756677,16.0
 nonlinear_nonlinear3_star2_gradual_16.csv,Chronos-Bolt Base,1.463509408170437,16.0
-nonlinear_nonlinear3_star2_gradual_16.csv,FEDD+ELM,39625.703801872725,16.0
+nonlinear_nonlinear3_star2_gradual_16.csv,FEDD+ELM,16104.35644593057,16.0
 nonlinear_nonlinear3_star2_gradual_17.csv,Chronos-Bolt Base,1.5815289818618161,16.0
-nonlinear_nonlinear3_star2_gradual_17.csv,FEDD+ELM,55553.29647565146,16.0
+nonlinear_nonlinear3_star2_gradual_17.csv,FEDD+ELM,30912.76982180747,16.0
 nonlinear_nonlinear3_star2_gradual_18.csv,Chronos-Bolt Base,1.7319321373598742,16.0
-nonlinear_nonlinear3_star2_gradual_18.csv,FEDD+ELM,8173.077724881195,16.0
+nonlinear_nonlinear3_star2_gradual_18.csv,FEDD+ELM,7639.118129365139,16.0
 nonlinear_nonlinear3_star2_gradual_19.csv,Chronos-Bolt Base,1.354375772426914,16.0
-nonlinear_nonlinear3_star2_gradual_19.csv,FEDD+ELM,18880.376074984622,16.0
+nonlinear_nonlinear3_star2_gradual_19.csv,FEDD+ELM,18880.360301232406,16.0
 nonlinear_nonlinear3_star2_gradual_20.csv,Chronos-Bolt Base,1.406463402323333,16.0
-nonlinear_nonlinear3_star2_gradual_20.csv,FEDD+ELM,19234.29204850324,16.0
+nonlinear_nonlinear3_star2_gradual_20.csv,FEDD+ELM,19234.311383415006,16.0
