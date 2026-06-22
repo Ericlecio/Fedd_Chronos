@@ -1,6 +1,4 @@
-## Resumo detalhado dos PDFs
-
-Os dois documentos tratam do mesmo projeto: uma comparação entre uma abordagem **clássica de detecção/adaptação a Concept Drift**, baseada em **FEDD + ELM**, e uma abordagem de **Inteligência Artificial Fundacional**, baseada no **Chronos-Bolt Base** operando em **Zero-Shot**. O primeiro PDF é a apresentação em slides, enquanto o segundo é o roteiro falado que explica cada slide com mais profundidade.  
+ERICLECIO
 
 ---
 
@@ -106,6 +104,8 @@ A leitura desses números é a seguinte: o FEDD + ELM tem um atraso mediano lige
 
 O roteiro enfatiza que o problema do método clássico não é sua incapacidade de encontrar os drifts reais. Ele encontra muitos. O problema é que ele também dispara alertas indevidos com frequência muito alta, o que, em uma aplicação prática, significaria acionar retreinamentos desnecessários repetidas vezes. 
 
+---
+ERIC 
 ---
 
 # 7. Métricas de detecção: precisão, recall e F1-Score
